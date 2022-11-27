@@ -1,0 +1,24 @@
+body{
+    padding: 10px;
+}
+
+input{
+    width: 100%;
+    height: 40px;
+    margin-bottom: 5px;
+}
+
+#tab-btn, #delete-btn{
+    border: 2px solid green;
+    padding: 10px;
+    background-color: white;
+    color: green;
+}
+
+#save-btn{
+    border: 2px solid black;
+    padding: 10px;
+    background-color: green;
+    color: white;
+}
+
